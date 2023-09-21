@@ -5,9 +5,7 @@
 
 - 🔭 Actualmente estoy trabajando en [Proyecto-Estructura-datos](https://github.com/LLFELIPEVV/Proyecto-Estructura-datos)
 
-- 🌱 Actualmente estoy aprendiendo **HTML , CSS, JAVASCRIPT**
-
-- 👯 Busco colaborar en [proyecto-diseno-algoritmos](https://github.com/LLFELIPEVV/proyecto-diseno-algoritmos)
+- 🌱 Actualmente estoy aprendiendo **HTML , CSS, JAVASCRIPT, PYTHON, DJANGO, SQL**
 
 <h3 align="left">Conecta conmigo :</h3>
 <p alinear="izquierda">

@@ -9,8 +9,8 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-    - [LinkedIn](Tú enlace de LinkedIn aquí)
-    - [Correo electrónico](Tú dirección de correo electrónico aquí)
+    - [LinkedIn](www.linkedin.com/in/ramón-felipe-perez-osorio)
+    - [Correo electrónico](ramonfelipeperezosorio@gmail.com)
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
@@ -20,8 +20,8 @@
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL" width="40" height="40"/> </a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/mysql-original.svg" alt="SQL" width="40" height="40"/> </a>
 </p>
 
 ![Mis lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs?username=llfelipevv&show_icons=true&locale=es&layout=compact)

@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente estoy trabajando en [Pagina de anime](https://github.com/LLFELIPEVV/pag_anime)
 
-- 🌱 Actualmente estoy aprendiendo **HTML, CSS, JavaScript, Python, Django, Django Api Rest, SQL, Postman**
+- 🌱 Actualmente estoy aprendiendo **Python, Django, Django Api Rest, Postman**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
@@ -22,6 +22,7 @@
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="SQL" width="40" height="40"/> </a>
 </p>
 
 ![Mis lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs?username=llfelipevv&show_icons=true&locale=es&layout=compact)

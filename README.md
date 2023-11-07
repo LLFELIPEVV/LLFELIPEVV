@@ -3,13 +3,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=llfelipevv" alt="llfelipevv" /> </a> </p>
 
-- 🔭 Actualmente estoy trabajando en [Pagina de anime](https://github.com/LLFELIPEVV/pag_anime)
+- 🔭 Actualmente estoy trabajando en [Pagina de anime](https://github.com/LLFELIPEVV/pag_anime) <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="css3" width="40" height="40"/> </a>
 
 - 🌱 Actualmente estoy aprendiendo **Python, Django, Django Api Rest, Postman**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-    - [LinkedIn](www.linkedin.com/in/ramón-felipe-perez-osorio)
+    - [LinkedIn](www.linkedin.com/in/ramón-felipe-perez-osorio) <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="css3" width="40" height="40"/> </a>
     - [Correo electrónico](ramonfelipeperezosorio@gmail.com)
 </p>
 
@@ -22,6 +22,7 @@
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="SQL" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="SQL" width="40" height="40"/> </a>
 </p>
 

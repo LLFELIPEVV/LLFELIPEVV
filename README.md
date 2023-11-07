@@ -1,11 +1,11 @@
 <h1 align="center">¡Hola! 👋 Soy LLFELIPEVV</h1>
-<h3 align="center">Desarrollador frontend apasionado de Colombia</h3>
+<h3 align="center">Desarrollador Backend apasionado de Colombia</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=llfelipevv" alt="llfelipevv" /> </a> </p>
 
 - 🔭 Actualmente estoy trabajando en [Pagina de anime](https://github.com/LLFELIPEVV/pag_anime)
 
-- 🌱 Actualmente estoy aprendiendo **HTML, CSS, JavaScript, Python, Django, Django Api Rest, SQL**
+- 🌱 Actualmente estoy aprendiendo **HTML, CSS, JavaScript, Python, Django, Django Api Rest, SQL, Postman**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
@@ -21,7 +21,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/mysql-original.svg" alt="SQL" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/> </a>
 </p>
 
 ![Mis lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs?username=llfelipevv&show_icons=true&locale=es&layout=compact)

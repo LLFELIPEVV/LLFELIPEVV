@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About Me<br><br>👋 Hello! I'm Ramón Felipe Perez Osorio, a systems engineering student and passionate Python developer. Currently, I'm focused on:<br><br>- **I’m currently working on:** Developing an anime page in the style of Animeflv, exploring the fascinating world of web and backend technologies.<br><br>- **I’m looking to collaborate on:** Projects related to web and backend development. If you have any interesting ideas, let's talk!<br><br>- **I’m looking for help with:** Advice and best practices in designing information systems and backend development.<br><br>- **I’m currently learning:** Improving my skills in MongoDB and Django Rest Framework and exploring new techniques in agile software development.<br><br>- **Ask me about:** Python, Django, and how to efficiently integrate APIs into projects.<br><br>- **Fun fact:** I'm an avid volleyball player, and my favorite animes are Dragon Ball and Hunter x Hunter.<br><br>Connect with me to discuss code, technology, or anything interesting!
+## About Me<br><br>👋 Hello! I'm Ramón Felipe Perez Osorio, a systems engineering student and passionate Python developer. Currently, I'm focused on:<br><br>- I’m currently working on: <p>Developing an anime page in the style of Animeflv, exploring the fascinating world of web and backend technologies.</p><br><br>- I’m looking to collaborate on: <p>Projects related to web and backend development. If you have any interesting ideas, let's talk!</p><br><br>- I’m looking for help with: <p>Advice and best practices in designing information systems and backend development.</p><br><br>- I’m currently learning: <p>Improving my skills in MongoDB and Django Rest Framework and exploring new techniques in agile software development.</p><br><br>- Ask me about: <p>Python, Django, and how to efficiently integrate APIs into projects.</p><br><br>- Fun fact: <p>I'm an avid volleyball player, and my favorite animes are Dragon Ball and Hunter x Hunter.</p><br><br><p>Connect with me to discuss code, technology, or anything interesting!</p>
 
 
 ## 🌐 Socials:
@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=LLFELIPEVV&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LLFELIPEVV&limit=5&theme=onedark&combine_all_yearly_contributions=true)
